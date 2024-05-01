@@ -19,7 +19,7 @@ export const SARIF_SCHEMA =
 export const SARIF_VERSION = '2.1.0';
 export const IAC_TOOL_NAME = 'analyze-code-security-scc';
 // TODO: add iac tool documentation link.
-export const IAC_TOOL_DOCUMENTATION_LINK = '';
+export const IAC_TOOL_DOCUMENTATION_LINK = 'https://cloud.google.com/security-command-center/docs/validate-iac';
 export const SCAN_FILE_MAX_SIZE_BYTES = 1000000;
 export const MAX_SCAN_TIMEOUT = '10m';
 export const MIN_SCAN_TIMEOUT = '1m';
